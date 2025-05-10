@@ -16,7 +16,7 @@ http://186.0.248.113:8000/play/a0bq/index.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="Nacionales", C5N
-http://181.13.173.86:8000/play/a01p/index.m3u8
+http://143.0.67.77:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="Nacionales", El Nueve
 http://181.209.95.29:8000/play/a0a9/index.m3u8
